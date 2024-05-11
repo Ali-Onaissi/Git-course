@@ -1,0 +1,52 @@
+Sure, here's the list organized into bullet points and sub-bullet points with titles:
+
+**Front-End Development:**
+- **HTML**
+  - Semantic Markup
+  - Accessibility
+- **CSS**
+  - Styling Elements
+  - Flexbox and Grid Layouts
+  - CSS Preprocessors (e.g., Sass)
+  - Responsive Web Design
+- **JavaScript**
+  - DOM Manipulation
+  - Asynchronous JavaScript
+  - Frameworks:
+    - React
+    - React Native (for mobile development)
+    - Bootstrap
+- **Design Tools**
+  - Figma
+  - Adobe Suite
+    - Photoshop
+    - Illustrator
+    - XD
+  - GIMP
+- **WordPress**
+  - Content Management System (CMS)
+  - Theme Development
+  - Plugin Development
+
+**Back-End Development:**
+- **Version Control**
+  - Git and GitHub
+- **Command Line**
+- **Server-Side JavaScript**
+  - Node.js
+  - Express.js
+- **Database Management**
+  - SQL
+    - MySQL, PostgreSQL
+  - NoSQL
+    - MongoDB
+- **Java**
+- **Additional Skills**
+  - TypeScript
+  - C++
+  - Python
+  - PHP
+  - PowerShell
+  - Microsoft Access
+
+By organizing your skills in this way, you can better visualize and prioritize your learning path as you work towards becoming a full-stack developer.
